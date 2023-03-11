@@ -13,4 +13,4 @@
 
 ##Contributor
 
-https://gtotaku-tg.github.io/Horiseon_TG/
+https://gtotaku-tg.github.io/Horiseon_TG/testindex.html/
