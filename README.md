@@ -2,6 +2,7 @@
 
 
 ### Live URL
+https://gtotaku-tg.github.io/Horiseon_TG/
 
 
 ### Horiseon homepage preview
