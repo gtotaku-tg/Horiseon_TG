@@ -16,7 +16,7 @@ The following image shows the application's appearance and functionality:
 
 
 
-##About
+## About
 Based on the Acceptance Criteria, these changes has been made:
 
 * All `div` element has been edited into include but not limited `header`, `nav` `section`, `artticle`, `main` and `aside`,  followed by semantic HTML rules, also followed by logical CSS structure.
@@ -24,7 +24,7 @@ Based on the Acceptance Criteria, these changes has been made:
 * All heading attributes fall in sequential order.
 * The website has a more concise and descriptive title.
 
-##Contributor
+## Contributor
 
 * **Websites**:
 
