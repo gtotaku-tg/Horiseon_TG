@@ -1,13 +1,14 @@
-#Horiseon_TG
+# Horiseon_TG
 
 
-###Live URL
+### Live URL
 
 
-###Horiseon homepage preview
+### Horiseon homepage preview
 The following image shows the application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/Horiseon-preview-page.png)
+
 > **Note**: The header image might be stretched on lower screen size because the element doesn't respnsive. 
 
 
